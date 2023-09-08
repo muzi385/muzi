@@ -1,0 +1,18 @@
+.lift{text-align: center;
+ font-family: sans-serif;
+ padding: 20px;
+
+}
+.image-1,.image-2, .image-3{
+	width: 30%;
+}
+.title{
+
+	color: darkblue;
+}
+body{
+	background-color: lightcyan;
+}
+.grid-container{
+	display: inline-grid;
+}
